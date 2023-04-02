@@ -11,9 +11,8 @@ body {
     box-shadow: 3px 3px 3px #333333;
 }
 #overeye {
-    height: 350px;
     background-image: url('images/eye.png');
-    background-size: 30% 95%;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-left: 530px;
     max-width: 100%;
