@@ -10,6 +10,15 @@ body {
     max-width: 2048px;
     box-shadow: 3px 3px 3px #333333;
 }
+#overeye {
+    height: 350px;
+    background-image: url('images/eye.png');
+    background-size: 30% 95%;
+    background-repeat: no-repeat;
+    margin-left: 530px;
+    max-width: 100%;
+    border: 1px solid #c8291c;
+}
 header {
     font-family: 'Montserrat', Helvetica, sans-serif;
     font-weight: bold;
